@@ -12,14 +12,14 @@ const config = {
   googleAnalyticsMeasurementID: 'G-0T4LYWMK8L',
   logo: (
     <img
-      alt="Questions Bank"
+      alt="Question Bank"
       className="h-8 w-auto"
       src="/logos/bank-logo.png"
     />
   ),
   navigation,
   showGlobalNav: false,
-  title: 'Questions Bank',
+  title: 'Question Bank',
   titleHref: '/questions',
 };
 

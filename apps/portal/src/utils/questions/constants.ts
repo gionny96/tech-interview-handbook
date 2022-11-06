@@ -4,7 +4,7 @@ import type { FilterChoices } from '~/components/questions/filter/FilterSection'
 
 import { SortOrder, SortType } from '~/types/questions.d';
 
-export const APP_TITLE = 'Questions Bank';
+export const APP_TITLE = 'Question Bank';
 
 export const COMPANIES: FilterChoices = [
   {
