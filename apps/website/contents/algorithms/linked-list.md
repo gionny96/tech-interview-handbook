@@ -108,7 +108,7 @@ Two pointer approaches are also common for linked lists. This approach is used f
 
 ### Using space
 
-Many linked list problems can be easily solved by creating a new linked list and adding nodes to the new linked list with the final result. However, this takes up extra space and makes the question much less challenging. The interviewer will usually request that you modify the linked list in-place and the solve the problem without additional storage. You can borrow ideas from the [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) problem.
+Many linked list problems can be easily solved by creating a new linked list and adding nodes to the new linked list with the final result. However, this takes up extra space and makes the question much less challenging. The interviewer will usually request that you modify the linked list in-place and to solve the problem without additional storage. You can borrow ideas from the [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) problem.
 
 ### Elegant modification operations
 
